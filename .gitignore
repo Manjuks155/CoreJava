@@ -22,3 +22,42 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/bin/
+
+
+# Binaries
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar1
+*.rar
+*.tar
+*.zip
+*.war
+*.ear
+*.sar
+*.class
+
+# class files 
+bin/
+target/
+
+# eclipse project file
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+
+# Misc
+*.swp
+.metadata
+release.properties
+.classpath
+.project
+.factorypath
+
+.idea/
+
